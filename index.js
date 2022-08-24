@@ -18,7 +18,7 @@ function funcTwo(a, b) {
 // for testing
 const arr1 = [1, 3, 2, -1];
 const arr2 = [3, 4, 5, -1];
-console.log("Task 5");
+console.log("-- Task 5 --");
 console.log(funcOne(arr1, arr2));
 
 const obj = {
@@ -27,6 +27,6 @@ const obj = {
 };
 const key1 = "name";
 const key2 = "somethingElse";
-console.log("Task 6");
+console.log("\n-- Task 6 --");
 console.log(funcTwo(obj, key1));
 console.log(funcTwo(obj, key2));
